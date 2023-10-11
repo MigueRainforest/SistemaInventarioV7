@@ -1,0 +1,15 @@
+D:\ITTG_\S4\SoftwareDevelopment\.NET\Proyectos\SistemaInventarioV7\SistemaInventarioV7.Modelos\bin\Debug\net7.0\SistemaInventarioV7.Modelos.deps.json
+D:\ITTG_\S4\SoftwareDevelopment\.NET\Proyectos\SistemaInventarioV7\SistemaInventarioV7.Modelos\bin\Debug\net7.0\SistemaInventarioV7.Modelos.dll
+D:\ITTG_\S4\SoftwareDevelopment\.NET\Proyectos\SistemaInventarioV7\SistemaInventarioV7.Modelos\bin\Debug\net7.0\SistemaInventarioV7.Modelos.pdb
+D:\ITTG_\S4\SoftwareDevelopment\.NET\Proyectos\SistemaInventarioV7\SistemaInventarioV7.Modelos\bin\Debug\net7.0\SistemaInventarioV7.Utilidades.dll
+D:\ITTG_\S4\SoftwareDevelopment\.NET\Proyectos\SistemaInventarioV7\SistemaInventarioV7.Modelos\bin\Debug\net7.0\SistemaInventarioV7.Utilidades.pdb
+D:\ITTG_\S4\SoftwareDevelopment\.NET\Proyectos\SistemaInventarioV7\SistemaInventarioV7.Modelos\obj\Debug\net7.0\SistemaInventarioV7.Modelos.csproj.AssemblyReference.cache
+D:\ITTG_\S4\SoftwareDevelopment\.NET\Proyectos\SistemaInventarioV7\SistemaInventarioV7.Modelos\obj\Debug\net7.0\SistemaInventarioV7.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITTG_\S4\SoftwareDevelopment\.NET\Proyectos\SistemaInventarioV7\SistemaInventarioV7.Modelos\obj\Debug\net7.0\SistemaInventarioV7.Modelos.AssemblyInfoInputs.cache
+D:\ITTG_\S4\SoftwareDevelopment\.NET\Proyectos\SistemaInventarioV7\SistemaInventarioV7.Modelos\obj\Debug\net7.0\SistemaInventarioV7.Modelos.AssemblyInfo.cs
+D:\ITTG_\S4\SoftwareDevelopment\.NET\Proyectos\SistemaInventarioV7\SistemaInventarioV7.Modelos\obj\Debug\net7.0\SistemaInventarioV7.Modelos.csproj.CoreCompileInputs.cache
+D:\ITTG_\S4\SoftwareDevelopment\.NET\Proyectos\SistemaInventarioV7\SistemaInventarioV7.Modelos\obj\Debug\net7.0\SistemaInventarioV7.Modelos.csproj.CopyComplete
+D:\ITTG_\S4\SoftwareDevelopment\.NET\Proyectos\SistemaInventarioV7\SistemaInventarioV7.Modelos\obj\Debug\net7.0\SistemaInventarioV7.Modelos.dll
+D:\ITTG_\S4\SoftwareDevelopment\.NET\Proyectos\SistemaInventarioV7\SistemaInventarioV7.Modelos\obj\Debug\net7.0\refint\SistemaInventarioV7.Modelos.dll
+D:\ITTG_\S4\SoftwareDevelopment\.NET\Proyectos\SistemaInventarioV7\SistemaInventarioV7.Modelos\obj\Debug\net7.0\SistemaInventarioV7.Modelos.pdb
+D:\ITTG_\S4\SoftwareDevelopment\.NET\Proyectos\SistemaInventarioV7\SistemaInventarioV7.Modelos\obj\Debug\net7.0\ref\SistemaInventarioV7.Modelos.dll

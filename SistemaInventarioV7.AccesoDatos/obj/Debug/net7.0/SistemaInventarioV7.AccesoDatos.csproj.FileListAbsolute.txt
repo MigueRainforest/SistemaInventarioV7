@@ -1,0 +1,17 @@
+D:\ITTG_\S4\SoftwareDevelopment\.NET\Proyectos\SistemaInventarioV7\SistemaInventarioV7.AccesoDatos\bin\Debug\net7.0\SistemaInventarioV7.AccesoDatos.deps.json
+D:\ITTG_\S4\SoftwareDevelopment\.NET\Proyectos\SistemaInventarioV7\SistemaInventarioV7.AccesoDatos\bin\Debug\net7.0\SistemaInventarioV7.AccesoDatos.dll
+D:\ITTG_\S4\SoftwareDevelopment\.NET\Proyectos\SistemaInventarioV7\SistemaInventarioV7.AccesoDatos\bin\Debug\net7.0\SistemaInventarioV7.AccesoDatos.pdb
+D:\ITTG_\S4\SoftwareDevelopment\.NET\Proyectos\SistemaInventarioV7\SistemaInventarioV7.AccesoDatos\bin\Debug\net7.0\SistemaInventarioV7.Modelos.dll
+D:\ITTG_\S4\SoftwareDevelopment\.NET\Proyectos\SistemaInventarioV7\SistemaInventarioV7.AccesoDatos\bin\Debug\net7.0\SistemaInventarioV7.Utilidades.dll
+D:\ITTG_\S4\SoftwareDevelopment\.NET\Proyectos\SistemaInventarioV7\SistemaInventarioV7.AccesoDatos\bin\Debug\net7.0\SistemaInventarioV7.Modelos.pdb
+D:\ITTG_\S4\SoftwareDevelopment\.NET\Proyectos\SistemaInventarioV7\SistemaInventarioV7.AccesoDatos\bin\Debug\net7.0\SistemaInventarioV7.Utilidades.pdb
+D:\ITTG_\S4\SoftwareDevelopment\.NET\Proyectos\SistemaInventarioV7\SistemaInventarioV7.AccesoDatos\obj\Debug\net7.0\SistemaInventarioV7.AccesoDatos.csproj.AssemblyReference.cache
+D:\ITTG_\S4\SoftwareDevelopment\.NET\Proyectos\SistemaInventarioV7\SistemaInventarioV7.AccesoDatos\obj\Debug\net7.0\SistemaInventarioV7.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITTG_\S4\SoftwareDevelopment\.NET\Proyectos\SistemaInventarioV7\SistemaInventarioV7.AccesoDatos\obj\Debug\net7.0\SistemaInventarioV7.AccesoDatos.AssemblyInfoInputs.cache
+D:\ITTG_\S4\SoftwareDevelopment\.NET\Proyectos\SistemaInventarioV7\SistemaInventarioV7.AccesoDatos\obj\Debug\net7.0\SistemaInventarioV7.AccesoDatos.AssemblyInfo.cs
+D:\ITTG_\S4\SoftwareDevelopment\.NET\Proyectos\SistemaInventarioV7\SistemaInventarioV7.AccesoDatos\obj\Debug\net7.0\SistemaInventarioV7.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\ITTG_\S4\SoftwareDevelopment\.NET\Proyectos\SistemaInventarioV7\SistemaInventarioV7.AccesoDatos\obj\Debug\net7.0\SistemaInventarioV7.AccesoDatos.csproj.CopyComplete
+D:\ITTG_\S4\SoftwareDevelopment\.NET\Proyectos\SistemaInventarioV7\SistemaInventarioV7.AccesoDatos\obj\Debug\net7.0\SistemaInventarioV7.AccesoDatos.dll
+D:\ITTG_\S4\SoftwareDevelopment\.NET\Proyectos\SistemaInventarioV7\SistemaInventarioV7.AccesoDatos\obj\Debug\net7.0\refint\SistemaInventarioV7.AccesoDatos.dll
+D:\ITTG_\S4\SoftwareDevelopment\.NET\Proyectos\SistemaInventarioV7\SistemaInventarioV7.AccesoDatos\obj\Debug\net7.0\SistemaInventarioV7.AccesoDatos.pdb
+D:\ITTG_\S4\SoftwareDevelopment\.NET\Proyectos\SistemaInventarioV7\SistemaInventarioV7.AccesoDatos\obj\Debug\net7.0\ref\SistemaInventarioV7.AccesoDatos.dll

@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaInventarioV7", "SistemaInventarioV7\SistemaInventarioV7.csproj", "{BD9A635B-B851-4BE3-8A4A-C0854218881F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaInventarioV7", "SistemaInventarioV7\SistemaInventarioV7.csproj", "{BD9A635B-B851-4BE3-8A4A-C0854218881F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaInventarioV7.AccesoDatos", "SistemaInventarioV7.AccesoDatos\SistemaInventarioV7.AccesoDatos.csproj", "{72E14A99-B446-4CE4-81B2-C3DCFBA796CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaInventarioV7.Modelos", "SistemaInventarioV7.Modelos\SistemaInventarioV7.Modelos.csproj", "{23E26C8F-A6BD-4567-823C-D738E6DC8A1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaInventarioV7.Utilidades", "SistemaInventarioV7.Utilidades\SistemaInventarioV7.Utilidades.csproj", "{4BD15A5C-BEC3-4737-9249-1822EA5541F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{BD9A635B-B851-4BE3-8A4A-C0854218881F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD9A635B-B851-4BE3-8A4A-C0854218881F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD9A635B-B851-4BE3-8A4A-C0854218881F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72E14A99-B446-4CE4-81B2-C3DCFBA796CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E14A99-B446-4CE4-81B2-C3DCFBA796CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E14A99-B446-4CE4-81B2-C3DCFBA796CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E14A99-B446-4CE4-81B2-C3DCFBA796CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23E26C8F-A6BD-4567-823C-D738E6DC8A1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E26C8F-A6BD-4567-823C-D738E6DC8A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23E26C8F-A6BD-4567-823C-D738E6DC8A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E26C8F-A6BD-4567-823C-D738E6DC8A1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BD15A5C-BEC3-4737-9249-1822EA5541F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BD15A5C-BEC3-4737-9249-1822EA5541F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BD15A5C-BEC3-4737-9249-1822EA5541F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BD15A5C-BEC3-4737-9249-1822EA5541F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

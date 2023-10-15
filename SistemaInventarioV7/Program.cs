@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using SistemaInventarioV7.AccesoDatos.Data;
+using SistemaInventarioV7.AccesoDatos.Repositorio;
 using SistemaInventarioV7.AccesoDatos.Repositorio.IRepositorio;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -15,7 +16,7 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.Requ
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation();
 
-builder.Services.AddScoped<IUnidadTrabajo, IUnidadTrabajo>();
+builder.Services.AddScoped<IUnidadTrabajo, UnidadTrabajo>();
 
 var app = builder.Build();
 

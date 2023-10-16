@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\js\\categoria.js"
     },
     {
+      "Id": "D:\\ITTG_\\S4\\SoftwareDevelopment\\.NET\\Proyectos\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\js\\marca.js",
+      "PackagePath": "staticwebassets\\js\\marca.js"
+    },
+    {
       "Id": "D:\\ITTG_\\S4\\SoftwareDevelopment\\.NET\\Proyectos\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

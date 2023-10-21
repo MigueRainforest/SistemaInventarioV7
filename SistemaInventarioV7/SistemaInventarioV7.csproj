@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
-    <Nullable>enable</Nullable>
+    <!-- <Nullable>enable</Nullable> -->
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>aspnet-SistemaInventarioV7-b9e5ba04-7084-4aab-b5af-f1891fb3fd42</UserSecretsId>
   </PropertyGroup>
@@ -21,6 +21,10 @@
     <ProjectReference Include="..\SistemaInventarioV7.AccesoDatos\SistemaInventarioV7.AccesoDatos.csproj" />
     <ProjectReference Include="..\SistemaInventarioV7.Modelos\SistemaInventarioV7.Modelos.csproj" />
     <ProjectReference Include="..\SistemaInventarioV7.Utilidades\SistemaInventarioV7.Utilidades.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\imagenes\producto\" />
   </ItemGroup>
 
 </Project>

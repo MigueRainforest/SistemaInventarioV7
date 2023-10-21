@@ -1,5 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using SistemaInventarioV7.AccesoDatos.Repositorio.IRepositorio;
 using SistemaInventarioV7.Modelos.ErrorViewModels;
+using SistemaInventarioV7.Modelos;
 using System.Diagnostics;
 
 namespace SistemaInventarioV7.Areas.Inventario.Controllers
@@ -8,15 +10,18 @@ namespace SistemaInventarioV7.Areas.Inventario.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly IUnidadTrabajo _unidadTabajo;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, IUnidadTrabajo unidadTrabajo)
         {
             _logger = logger;
+            _unidadTabajo = unidadTrabajo;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
+            IEnumerable<Producto> productoLista = await _unidadTabajo.Producto.ObtenerTodos();
+            return View(productoLista);
         }
 
         public IActionResult Privacy()

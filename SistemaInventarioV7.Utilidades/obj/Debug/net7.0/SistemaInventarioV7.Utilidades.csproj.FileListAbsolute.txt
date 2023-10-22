@@ -9,3 +9,4 @@ D:\ITTG_\S4\SoftwareDevelopment\.NET\Proyectos\SistemaInventarioV7\SistemaInvent
 D:\ITTG_\S4\SoftwareDevelopment\.NET\Proyectos\SistemaInventarioV7\SistemaInventarioV7.Utilidades\obj\Debug\net7.0\refint\SistemaInventarioV7.Utilidades.dll
 D:\ITTG_\S4\SoftwareDevelopment\.NET\Proyectos\SistemaInventarioV7\SistemaInventarioV7.Utilidades\obj\Debug\net7.0\SistemaInventarioV7.Utilidades.pdb
 D:\ITTG_\S4\SoftwareDevelopment\.NET\Proyectos\SistemaInventarioV7\SistemaInventarioV7.Utilidades\obj\Debug\net7.0\ref\SistemaInventarioV7.Utilidades.dll
+D:\ITTG_\S4\SoftwareDevelopment\.NET\Proyectos\SistemaInventarioV7\SistemaInventarioV7.Utilidades\obj\Debug\net7.0\SistemaInventarioV7.Utilidades.csproj.AssemblyReference.cache

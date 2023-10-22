@@ -13,4 +13,7 @@
     <SourceRoot Include="C:\Users\mhmig\.nuget\packages\" />
     <SourceRoot Include="D:\dotNetCourse\InstalledVStudio\Shared\NuGetPackages\" />
   </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)microsoft.aspnetcore.identity.ui\7.0.11\build\Microsoft.AspNetCore.Identity.UI.props" Condition="Exists('$(NuGetPackageRoot)microsoft.aspnetcore.identity.ui\7.0.11\build\Microsoft.AspNetCore.Identity.UI.props')" />
+  </ImportGroup>
 </Project>

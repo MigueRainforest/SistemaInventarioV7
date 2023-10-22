@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+7pTX5ocWH535/d3D4vak3wwpSkg2Y/V1bkLN5WPb78=",
+  "Hash": "238iKsTA3o2O78V5amlgoG2S6H3but7A72dP2dhDvFU=",
   "Source": "SistemaInventarioV7",
   "BasePath": "_content/SistemaInventarioV7",
   "Mode": "Default",
@@ -1156,6 +1156,40 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\producto\\1600db8b-0c58-41dd-8dc4-cf4a094eba65.JPG"
     },
     {
+      "Identity": "D:\\ITTG_\\S4\\SoftwareDevelopment\\.NET\\Proyectos\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\imagenes\\producto\\33dff94e-05c3-483e-9662-d79355f4a058.jpg",
+      "SourceId": "SistemaInventarioV7",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ITTG_\\S4\\SoftwareDevelopment\\.NET\\Proyectos\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\",
+      "BasePath": "_content/SistemaInventarioV7",
+      "RelativePath": "imagenes/producto/33dff94e-05c3-483e-9662-d79355f4a058.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\producto\\33dff94e-05c3-483e-9662-d79355f4a058.jpg"
+    },
+    {
+      "Identity": "D:\\ITTG_\\S4\\SoftwareDevelopment\\.NET\\Proyectos\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\imagenes\\producto\\5c6aee54-f251-448a-b900-0998d8537535.jpg",
+      "SourceId": "SistemaInventarioV7",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ITTG_\\S4\\SoftwareDevelopment\\.NET\\Proyectos\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\",
+      "BasePath": "_content/SistemaInventarioV7",
+      "RelativePath": "imagenes/producto/5c6aee54-f251-448a-b900-0998d8537535.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\producto\\5c6aee54-f251-448a-b900-0998d8537535.jpg"
+    },
+    {
       "Identity": "D:\\ITTG_\\S4\\SoftwareDevelopment\\.NET\\Proyectos\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\imagenes\\producto\\64a5950d-5edb-40f6-87fc-cff4c9fb3261.JPG",
       "SourceId": "SistemaInventarioV7",
       "SourceType": "Discovered",
@@ -1171,6 +1205,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagenes\\producto\\64a5950d-5edb-40f6-87fc-cff4c9fb3261.JPG"
+    },
+    {
+      "Identity": "D:\\ITTG_\\S4\\SoftwareDevelopment\\.NET\\Proyectos\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\imagenes\\producto\\679b3732-2e90-4857-b6f5-16b7e4d920af.jpg",
+      "SourceId": "SistemaInventarioV7",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ITTG_\\S4\\SoftwareDevelopment\\.NET\\Proyectos\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\",
+      "BasePath": "_content/SistemaInventarioV7",
+      "RelativePath": "imagenes/producto/679b3732-2e90-4857-b6f5-16b7e4d920af.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\producto\\679b3732-2e90-4857-b6f5-16b7e4d920af.jpg"
     },
     {
       "Identity": "D:\\ITTG_\\S4\\SoftwareDevelopment\\.NET\\Proyectos\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\imagenes\\producto\\6fedcf24-01f3-4d28-83c7-90baa8045267.JPG",
@@ -1190,6 +1241,23 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\producto\\6fedcf24-01f3-4d28-83c7-90baa8045267.JPG"
     },
     {
+      "Identity": "D:\\ITTG_\\S4\\SoftwareDevelopment\\.NET\\Proyectos\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\imagenes\\producto\\819b6579-4a44-474b-a352-50a42301dce6.jpg",
+      "SourceId": "SistemaInventarioV7",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ITTG_\\S4\\SoftwareDevelopment\\.NET\\Proyectos\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\",
+      "BasePath": "_content/SistemaInventarioV7",
+      "RelativePath": "imagenes/producto/819b6579-4a44-474b-a352-50a42301dce6.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\producto\\819b6579-4a44-474b-a352-50a42301dce6.jpg"
+    },
+    {
       "Identity": "D:\\ITTG_\\S4\\SoftwareDevelopment\\.NET\\Proyectos\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\imagenes\\producto\\8daffd10-bd67-4e75-9288-29a273c1bba2.JPG",
       "SourceId": "SistemaInventarioV7",
       "SourceType": "Discovered",
@@ -1207,6 +1275,23 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\producto\\8daffd10-bd67-4e75-9288-29a273c1bba2.JPG"
     },
     {
+      "Identity": "D:\\ITTG_\\S4\\SoftwareDevelopment\\.NET\\Proyectos\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\imagenes\\producto\\957dba5e-aa02-45c1-b8e2-9b04a2c10a66.jpg",
+      "SourceId": "SistemaInventarioV7",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ITTG_\\S4\\SoftwareDevelopment\\.NET\\Proyectos\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\",
+      "BasePath": "_content/SistemaInventarioV7",
+      "RelativePath": "imagenes/producto/957dba5e-aa02-45c1-b8e2-9b04a2c10a66.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\producto\\957dba5e-aa02-45c1-b8e2-9b04a2c10a66.jpg"
+    },
+    {
       "Identity": "D:\\ITTG_\\S4\\SoftwareDevelopment\\.NET\\Proyectos\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\imagenes\\producto\\ad3ff496-4d9b-4ab0-b5f7-0ac26f78d13a.JPG",
       "SourceId": "SistemaInventarioV7",
       "SourceType": "Discovered",
@@ -1222,6 +1307,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagenes\\producto\\ad3ff496-4d9b-4ab0-b5f7-0ac26f78d13a.JPG"
+    },
+    {
+      "Identity": "D:\\ITTG_\\S4\\SoftwareDevelopment\\.NET\\Proyectos\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\imagenes\\producto\\c5a7758e-afb1-42fd-b4f6-4e02cce8cb09.jpg",
+      "SourceId": "SistemaInventarioV7",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ITTG_\\S4\\SoftwareDevelopment\\.NET\\Proyectos\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\",
+      "BasePath": "_content/SistemaInventarioV7",
+      "RelativePath": "imagenes/producto/c5a7758e-afb1-42fd-b4f6-4e02cce8cb09.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\producto\\c5a7758e-afb1-42fd-b4f6-4e02cce8cb09.jpg"
     },
     {
       "Identity": "D:\\ITTG_\\S4\\SoftwareDevelopment\\.NET\\Proyectos\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\imagenes\\producto\\e2dee084-bfb7-4bc6-b81e-ec32bf7f7197.JPG",
